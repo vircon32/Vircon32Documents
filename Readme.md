@@ -10,6 +10,13 @@ Right now the documents cover 2 categories:
 You can read about each of these in their subfolders.
 
 ----------------------------------
+### How to contribute
+
+Please, do not submit pull requests for changes in these documents. If you think there is a mistake in them, open an issue instead.
+
+You are welcome to add translated versions of the documents to other languages.
+
+----------------------------------
 ### Where to learn about Vircon32?
 
 If you are not familiar with Vircon32, a 32-bit virtual game console, you can visit its website [www.vircon32.com](http://www.vircon32.com "Vircon32 Homepage") for more information. There you will also find everything you may need to try out the console and to make games for it.
