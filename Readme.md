@@ -10,6 +10,14 @@ Right now the documents cover 2 categories:
 You can read about each of these in their subfolders.
 
 ----------------------------------
+### License
+
+This repository contains several elements, so any of them may have their own license. But unless otherwise specified, the global license is:
+- Assets and documents are provided under [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)
+
+The intent of Vircon32 is to be open and free, that is why the chosen licenses are very permissive and should allow most uses.
+
+----------------------------------
 ### How to contribute
 
 Please, do not submit pull requests for changes in these documents. If you think there is a mistake in them, open an issue instead.
